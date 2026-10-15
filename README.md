@@ -80,3 +80,5 @@ Run TikTok Studio: python tiktok_video.py
 Run Store Audit: python enterprise_command.py
 
 Developed to demonstrate advanced Python automation, local LLM orchestration, and enterprise-grade e-commerce operations.
+
+https://rarestandards.tech/
